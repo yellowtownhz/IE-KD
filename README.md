@@ -16,4 +16,4 @@
  (dis-similarity). The supervised task (classification/detection) loss guides
  the exploration part to converge to diverse yet effective features.*
 
- **Code coming soon!**
+According to the policy of our company, the code is [here](https://github.com/aliyun/Revisiting-Knowledge-Distillation-an-Inheritance-and-Exploration-Framework).
